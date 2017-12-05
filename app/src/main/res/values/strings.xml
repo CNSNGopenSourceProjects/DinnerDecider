@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dinner Decider</string>
+    <string name="decide_button_text">DECIDE !</string>
+    <string name="chinese_default_food">Chinese</string>
+    <string name="add_new_food_hint_text">Add new food...</string>
+    <string name="add_food_button_text">ADD FOOD</string>
+</resources>
